@@ -27,7 +27,7 @@
       "logo": "../template-icons/nodes/80by80/cosmos.png",
       "buttonText":"Deploy Now",
       "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
-      "targetDeployTemplate":""
+      "targetDeployTemplate":"https://raw.githubusercontent.com/akash-network/deploy-templates/main/cosmos/metadata.json"
     },
     "title": {
       "name": "kava",
@@ -35,7 +35,7 @@
       "logo": "../template-icons/nodes/80by80/kava.png",
       "buttonText":"Deploy Now",
       "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
-      "targetDeployTemplate":""
+      "targetDeployTemplate":"https://raw.githubusercontent.com/akash-network/deploy-templates/main/kava/metadata.json"
     },
     "title": {
       "name": "Chia",
@@ -43,7 +43,7 @@
       "logo": "../template-icons/nodes/80by80/chia.png",
       "buttonText":"Deploy Now",
       "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
-      "targetDeployTemplate":""
+      "targetDeployTemplate":"https://raw.githubusercontent.com/akash-network/deploy-templates/main/chia/metadata.json"
     },
     "title": {
       "name": "Osmosis",
@@ -51,7 +51,7 @@
       "logo": "../template-icons/nodes/80by80/osmosis.png",
       "buttonText":"Deploy Now",
       "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
-      "targetDeployTemplate":""
+      "targetDeployTemplate":"https://raw.githubusercontent.com/akash-network/deploy-templates/main/osmosis/metadata.json"
     },
     "title": {
       "name": "Juno",
@@ -67,7 +67,7 @@
       "logo": "../template-icons/nodes/80by80/persistence.png",
       "buttonText":"Deploy Now",
       "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
-      "targetDeployTemplate":""
+      "targetDeployTemplate":"https://raw.githubusercontent.com/akash-network/deploy-templates/main/persistence/metadata.json"
     },
     "title": {
       "name": "Regen",
@@ -83,7 +83,7 @@
       "logo": "../template-icons/nodes/80by80/sentinel.png",
       "buttonText":"Deploy Now",
       "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
-      "targetDeployTemplate":""
+      "targetDeployTemplate":"https://raw.githubusercontent.com/akash-network/deploy-templates/main/sentinel/metadata.json"
     },
     "title": {
       "name": "Omniflix",
@@ -91,7 +91,7 @@
       "logo": "../template-icons/nodes/80by80/omniflix.png",
       "buttonText":"Deploy Now",
       "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
-      "targetDeployTemplate":""
+      "targetDeployTemplate":"https://raw.githubusercontent.com/akash-network/deploy-templates/main/omniflix/metadata.json"
     },
     "title": {
       "name": "Evmos",
@@ -99,7 +99,7 @@
       "logo": "../template-icons/nodes/80by80/evmos.png",
       "buttonText":"Deploy Now",
       "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
-      "targetDeployTemplate":""
+      "targetDeployTemplate":"https://raw.githubusercontent.com/akash-network/deploy-templates/main/evmos/metadata.json"
     }
   }
 }
