@@ -1,0 +1,105 @@
+{
+  "version": "0.0.1", 
+  "introText": "Pick a template for a blockchain of choice or upload your own SDL",
+  "importSDL": true, //set to false if we don't want the import SDL option
+  "maxHorizontalTiles": 4, // Max number of tiles we will display when the browser is stretched. Min is 1 (when compressed)
+  "tiles"
+  {
+    "title": {
+      "name": "Fun & Games",
+      "description": "Some fun games you can experiment with",
+      "logo": "",
+      "buttonText":"Deploy Now",
+      "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
+      "targetDeployTemplate":"https://raw.githubusercontent.com/akash-network/deploy-templates/main/akash/metadata.json"
+    },
+    "title": {
+      "name": "Akash",
+      "description": "An RPC Node, Validator node or a Sentry node for Akash Network",
+      "logo": "../template-icons/nodes/80by80/akash.png",
+      "buttonText":"Deploy Now",
+      "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
+      "targetDeployTemplate":"https://raw.githubusercontent.com/akash-network/deploy-templates/main/akash-games/metadata.json"
+    },
+    "title": {
+      "name": "Cosmos",
+      "description": "An RPC Node that runs on the Cosmos Blockchain",
+      "logo": "../template-icons/nodes/80by80/cosmos.png",
+      "buttonText":"Deploy Now",
+      "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
+      "targetDeployTemplate":""
+    },
+    "title": {
+      "name": "kava",
+      "description": "An RPC Node that runs on the Kava Blockchain",
+      "logo": "../template-icons/nodes/80by80/kava.png",
+      "buttonText":"Deploy Now",
+      "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
+      "targetDeployTemplate":""
+    },
+    "title": {
+      "name": "Chia",
+      "description": "Bladebit, Bladebit-disk or Madmax plotter for the Chia Network",
+      "logo": "../template-icons/nodes/80by80/chia.png",
+      "buttonText":"Deploy Now",
+      "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
+      "targetDeployTemplate":""
+    },
+    "title": {
+      "name": "Osmosis",
+      "description": "An RPC Node that runs on the Osmosis Blockchain",
+      "logo": "../template-icons/nodes/80by80/osmosis.png",
+      "buttonText":"Deploy Now",
+      "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
+      "targetDeployTemplate":""
+    },
+    "title": {
+      "name": "Juno",
+      "description": "An RPC Node that runs on the Juno Blockchain",
+      "logo": "../template-icons/nodes/80by80/juno.png",
+      "buttonText":"Deploy Now",
+      "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
+      "targetDeployTemplate":""
+    },
+    "title": {
+      "name": "Persistence",
+      "description": "An RPC Node that runs on the Persistence Blockchain",
+      "logo": "../template-icons/nodes/80by80/persistence.png",
+      "buttonText":"Deploy Now",
+      "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
+      "targetDeployTemplate":""
+    },
+    "title": {
+      "name": "Regen",
+      "description": "An RPC Node that runs on the Regen Blockchain",
+      "logo": "../template-icons/nodes/80by80/regen.png",
+      "buttonText":"Deploy Now",
+      "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
+      "targetDeployTemplate":""
+    },
+    "title": {
+      "name": "Sentinel",
+      "description": "An RPC Node that runs on the Sentinel Blockchain",
+      "logo": "../template-icons/nodes/80by80/sentinel.png",
+      "buttonText":"Deploy Now",
+      "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
+      "targetDeployTemplate":""
+    },
+    "title": {
+      "name": "Omniflix",
+      "description": "An RPC Node that runs on the Omniflix Blockchain",
+      "logo": "../template-icons/nodes/80by80/omniflix.png",
+      "buttonText":"Deploy Now",
+      "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
+      "targetDeployTemplate":""
+    },
+    "title": {
+      "name": "Evmos",
+      "description": "An RPC Node that runs on the Evmos Blockchain",
+      "logo": "../template-icons/nodes/80by80/evmos.png",
+      "buttonText":"Deploy Now",
+      "buttonState":true, //set to false, if you don't want it to be clickable (e.g "coming soon")
+      "targetDeployTemplate":""
+    }
+  }
+}
