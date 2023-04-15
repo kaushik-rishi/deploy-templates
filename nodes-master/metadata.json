@@ -9,6 +9,7 @@
       "name": "akash-games",
       "description": "Some fun games you can experiment with",
       "logo": "/template-icons/nodes/80by80/hello-world.png",
+      "logoFileNameWithoutExt": "helloworld",
       "buttonText": "Deploy Now",
       "buttonState": true,
       "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/akash-games/metadata.json"
@@ -18,6 +19,7 @@
       "name": "akash",
       "description": "An RPC Node, Validator node or a Sentry node for Akash Network",
       "logo": "/template-icons/nodes/80by80/akash.png",
+      "logoFileNameWithoutExt": "akash",
       "buttonText": "Deploy Now",
       "buttonState": true,
       "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/akash/metadata.json"
@@ -27,6 +29,7 @@
       "name": "cosmos",
       "description": "An RPC Node that runs on the Cosmos Blockchain",
       "logo": "/template-icons/nodes/80by80/cosmos.png",
+      "logoFileNameWithoutExt": "cosmos",
       "buttonText": "Deploy Now",
       "buttonState": true,
       "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/cosmos/metadata.json"
@@ -36,6 +39,7 @@
       "name": "kava",
       "description": "An RPC Node that runs on the Kava Blockchain",
       "logo": "/template-icons/nodes/80by80/kava.png",
+      "logoFileNameWithoutExt": "kava",
       "buttonText": "Deploy Now",
       "buttonState": true,
       "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/kava/metadata.json"
@@ -45,6 +49,7 @@
       "name": "chia",
       "description": "Bladebit, Bladebit-disk or Madmax plotter for the Chia Network",
       "logo": "/template-icons/nodes/80by80/chia.png",
+      "logoFileNameWithoutExt": "chia",
       "buttonText": "Deploy Now",
       "buttonState": true,
       "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/chia/metadata.json"
@@ -54,6 +59,7 @@
       "name": "osmosis",
       "description": "An RPC Node that runs on the Osmosis Blockchain",
       "logo": "/template-icons/nodes/80by80/osmosis.png",
+      "logoFileNameWithoutExt": "osmosis",
       "buttonText": "Deploy Now",
       "buttonState": true,
       "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/osmosis/metadata.json"
@@ -63,6 +69,7 @@
       "name": "juno",
       "description": "An RPC Node that runs on the Juno Blockchain",
       "logo": "/template-icons/nodes/80by80/juno.png",
+      "logoFileNameWithoutExt": "juno",
       "buttonText": "Deploy Now",
       "buttonState": true,
       "targetDeployTemplate": ""
@@ -72,6 +79,7 @@
       "name": "persistence",
       "description": "An RPC Node that runs on the Persistence Blockchain",
       "logo": "/template-icons/nodes/80by80/persistance.png",
+      "logoFileNameWithoutExt": "persistence",
       "buttonText": "Deploy Now",
       "buttonState": true,
       "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/persistence/metadata.json"
@@ -81,6 +89,7 @@
       "name": "regen",
       "description": "An RPC Node that runs on the Regen Blockchain",
       "logo": "/template-icons/nodes/80by80/regen.png",
+      "logoFileNameWithoutExt": "regen",
       "buttonText": "Deploy Now",
       "buttonState": true,
       "targetDeployTemplate": ""
@@ -90,6 +99,7 @@
       "name": "sentinel",
       "description": "An RPC Node that runs on the Sentinel Blockchain",
       "logo": "/template-icons/nodes/80by80/sentinel.png",
+      "logoFileNameWithoutExt": "sentinel",
       "buttonText": "Deploy Now",
       "buttonState": true,
       "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/sentinel/metadata.json"
@@ -99,6 +109,7 @@
       "name": "omniflix",
       "description": "An RPC Node that runs on the Omniflix Blockchain",
       "logo": "/template-icons/nodes/80by80/omniflix.png",
+      "logoFileNameWithoutExt": "omniflix",
       "buttonText": "Deploy Now",
       "buttonState": true,
       "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/omniflix/metadata.json"
@@ -108,6 +119,7 @@
       "name": "evmos",
       "description": "An RPC Node that runs on the Evmos Blockchain",
       "logo": "/template-icons/nodes/80by80/evmos.png",
+      "logoFileNameWithoutExt": "evmos",
       "buttonText": "Deploy Now",
       "buttonState": true,
       "targetDeployTemplate": "https://raw.githubusercontent.com/akash-network/deploy-templates/main/evmos/metadata.json"
