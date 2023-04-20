@@ -29,24 +29,24 @@
       }
     ]
   },
-  "howToUseGuideTiles": {
+  "sdlGuideTiles": {
     "introText": "How it works?",
     "introDescription": "There are 3 main steps to deploying on Akash. Check out our detailed help for more.",
     "tiles": [
       {
         "step": "01",
         "text": "Start with a template or your own custom application (SDL)",
-        "relativeImagePath": ""
+        "image": "/template-icons/landing/illustrations/pick-sdl.png"
       },
       {
         "step": "02",
         "text": "Choose a provider based on your preferences and desired price",
-        "relativeImagePath": ""
+        "image": "/template-icons/landing/illustrations/pick-provider.png"
       },
       {
         "step": "03",
         "text": "View & manage your deployed application",
-        "relativeImagePath": ""
+        "image": "/template-icons/landing/illustrations/deploy-app.png"
       }
     ]
   }
