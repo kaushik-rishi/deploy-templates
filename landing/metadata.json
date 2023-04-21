@@ -9,6 +9,7 @@
         "buttonText": "Choose a Template",
         "route": "/landing/node-deployment",
         "icon": "xrayView",
+        "image": "/template-icons/landing/icons/xray-view.svg",
         "buttonEnabled": true
       },
       {
@@ -17,6 +18,7 @@
         "buttonText": "Choose a Template",
         "route": "",
         "icon": "www",
+        "image": "/template-icons/landing/icons/www.svg",
         "buttonEnabled": false
       },
       {
@@ -25,6 +27,7 @@
         "buttonText": "Choose a Template",
         "route": "",
         "icon": "electronicsChip",
+        "image": "/template-icons/landing/icons/electronic-chip.svg",
         "buttonEnabled": false
       }
     ]
